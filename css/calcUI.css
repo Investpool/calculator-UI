@@ -1,0 +1,47 @@
+.col-md-12{
+	background-color:  gray;
+	color: white;
+}
+.col-md-3{
+	background-color: #e8edea;
+	border-bottom: 0.2px;
+	border-right: 0.2px grey solid;
+	border-left: 0.2px grey solid;
+	text-align: center;
+
+}
+.or{
+	background-color: orange;
+}
+.zero{
+	background-color: #e8edea;
+	border-bottom: 1px #c1b8c2 solid;
+	border-right: 1px #c1b8c2 solid;
+}
+.float{
+	float: right;
+}
+.move{
+	float: center;
+}
+.container{
+	margin-top: 20px;
+	
+
+}
+.row{
+	border:0.5px solid;
+}
+.body{
+    border-bottom:0.2px;
+	border-left: 0.2px;	
+}
+h3{
+	padding-left: 3px;
+	padding-right: 3px;
+}
+
+
+
+
+
